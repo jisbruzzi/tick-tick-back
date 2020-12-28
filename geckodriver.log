@@ -1,0 +1,802 @@
+1609099288084	geckodriver	INFO	Listening on 127.0.0.1:55807
+1609099288110	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekBcPzf"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609099290575	Marionette	INFO	Listening on port 45017
+1609099290642	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609099292930	Marionette	INFO	Stopped listening on port 45017
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BJJ, line 6299: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BJJ, line 6299: NS_ERROR_NOT_INITIALIZED: 
+1609099364212	geckodriver	INFO	Listening on 127.0.0.1:49803
+1609099364217	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRZxRN4"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609099366665	Marionette	INFO	Listening on port 35547
+1609099366744	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609099369064	Marionette	INFO	Stopped listening on port 35547
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1609099513373	geckodriver	INFO	Listening on 127.0.0.1:36717
+1609099513393	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenrShzj"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609099515832	Marionette	INFO	Listening on port 32853
+1609099515939	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1609099517218	Marionette	INFO	Stopped listening on port 32853
+1609099527004	geckodriver	INFO	Listening on 127.0.0.1:44427
+1609099527028	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWjGPPv"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://activity-stream/lib/ASRouterNewTabHook.jsm, line 61: TypeError: this._router is null
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/osfile/osfile_native.jsm, line 64: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsINativeOSFileInternalsService.read]
+1609100264735	geckodriver	INFO	Listening on 127.0.0.1:60315
+1609100264740	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelSiwiJ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609100267462	Marionette	INFO	Listening on port 46351
+1609100267603	Marionette	WARN	TLS certificate errors will be ignored for this session
+libGL error: No matching fbConfigs or visuals found
+libGL error: failed to load driver: swrast
+1609100353644	Marionette	INFO	Stopped listening on port 46351
+1609100355478	geckodriver	INFO	Listening on 127.0.0.1:51551
+1609100355482	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevgf9Wv"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609100358157	Marionette	INFO	Listening on port 40897
+1609100358213	Marionette	WARN	TLS certificate errors will be ignored for this session
+libGL error: No matching fbConfigs or visuals found
+libGL error: failed to load driver: swrast
+1609100405184	Marionette	INFO	Stopped listening on port 40897
+1609100452400	geckodriver	INFO	Listening on 127.0.0.1:37997
+1609100452405	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenh5Lem"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609100455064	Marionette	INFO	Listening on port 44385
+1609100455156	Marionette	WARN	TLS certificate errors will be ignored for this session
+libGL error: No matching fbConfigs or visuals found
+libGL error: failed to load driver: swrast
+1609100471114	Marionette	INFO	Stopped listening on port 44385
+1609100497249	geckodriver	INFO	Listening on 127.0.0.1:58143
+1609100497254	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerW6Nnl"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609100500157	Marionette	INFO	Listening on port 41303
+1609100500207	Marionette	WARN	TLS certificate errors will be ignored for this session
+libGL error: No matching fbConfigs or visuals found
+libGL error: failed to load driver: swrast
+1609100548138	geckodriver	INFO	Listening on 127.0.0.1:35829
+1609100548143	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile41ipl8"
+1609100549248	Marionette	INFO	Stopped listening on port 41303
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609100551064	Marionette	INFO	Listening on port 45599
+1609100551177	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609100552875	Marionette	INFO	Stopped listening on port 45599
+1609100564518	geckodriver	INFO	Listening on 127.0.0.1:38601
+1609100564526	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuwe0uo"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609100567259	Marionette	INFO	Listening on port 38031
+1609100567368	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609100569157	Marionette	INFO	Stopped listening on port 38031
+1609100618704	geckodriver	INFO	Listening on 127.0.0.1:56619
+1609100618709	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5VrcDp"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609100621271	Marionette	INFO	Listening on port 40839
+1609100621351	Marionette	WARN	TLS certificate errors will be ignored for this session
+libGL error: No matching fbConfigs or visuals found
+libGL error: failed to load driver: swrast
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1609100688828	Marionette	INFO	Stopped listening on port 40839
+1609100689968	geckodriver	INFO	Listening on 127.0.0.1:53599
+1609100689972	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehbSQ88"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609100692867	Marionette	INFO	Listening on port 34807
+1609100692908	Marionette	WARN	TLS certificate errors will be ignored for this session
+libGL error: No matching fbConfigs or visuals found
+libGL error: failed to load driver: swrast
+1609100721294	Marionette	INFO	Stopped listening on port 34807
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1609100882150	geckodriver	INFO	Listening on 127.0.0.1:38295
+1609100882155	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOlQA9c"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609100884822	Marionette	INFO	Listening on port 36345
+1609100884895	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609100889539	Marionette	INFO	Stopped listening on port 36345
+1609100900119	geckodriver	INFO	Listening on 127.0.0.1:56951
+1609100900124	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewxHGdy"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609100902943	Marionette	INFO	Listening on port 35341
+1609100903098	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609100905980	Marionette	INFO	Stopped listening on port 35341
+1609100935878	geckodriver	INFO	Listening on 127.0.0.1:49949
+1609100935883	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3TjqOj"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609100938551	Marionette	INFO	Listening on port 34557
+1609100938612	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609100941311	Marionette	INFO	Stopped listening on port 34557
+1609100953289	geckodriver	INFO	Listening on 127.0.0.1:53669
+1609100953294	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHaVFFi"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609100956284	Marionette	INFO	Listening on port 37367
+1609100956337	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609100958570	Marionette	INFO	Stopped listening on port 37367
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609101002567	geckodriver	INFO	Listening on 127.0.0.1:46675
+1609101002572	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1el2uA"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609101005211	Marionette	INFO	Listening on port 35597
+1609101005306	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609101007428	Marionette	INFO	Stopped listening on port 35597
+1609101039566	geckodriver	INFO	Listening on 127.0.0.1:47693
+1609101039571	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegQeGaN"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609101042530	Marionette	INFO	Listening on port 40725
+1609101042613	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609101044756	Marionette	INFO	Stopped listening on port 40725
+1609101092415	geckodriver	INFO	Listening on 127.0.0.1:51017
+1609101092423	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXr0m7Q"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609101095023	Marionette	INFO	Listening on port 38257
+1609101095064	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Error while calling actor 'localStorage's method 'getStoreObjects'" "can't access dead object"
+console.error: "getValuesForHost@resource://devtools/server/actors/storage.js:1265:23\ngetStoreObjects@resource://devtools/server/actors/storage.js:429:30\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+console.error: (new Error("Protocol error (TypeError): can't access dead object from: server0.conn0.child3/localStorage92 (resource://devtools/server/actors/storage.js:1265:23)", "resource://devtools/shared/protocol/Front.js", 361))
+1609101281504	Marionette	INFO	Stopped listening on port 38257
+1609101281911	geckodriver	INFO	Listening on 127.0.0.1:34185
+1609101299067	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5GtnAF"
+libGL error: No matching fbConfigs or visuals found
+libGL error: failed to load driver: swrast
+libGL error: No matching fbConfigs or visuals found
+libGL error: failed to load driver: swrast
+1609101302275	Marionette	INFO	Listening on port 36109
+1609101302394	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://395a24f7-66ed-44d4-a651-b9842d48e9fe/bg-libs.js, line 16: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 108: Error: sendRemoveListener on closed conduit {52198036-5173-4877-a8e8-62474781798d}.274877906948
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 169: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 169: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 613: TypeError: context.contentWindow is null
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 169: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 169: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 169: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 613: TypeError: context.contentWindow is null
+1609101403646	Marionette	INFO	Stopped listening on port 36109
+1609101406750	geckodriver	INFO	Listening on 127.0.0.1:36575
+1609101572892	geckodriver	INFO	Listening on 127.0.0.1:49217
+1609101669826	geckodriver	INFO	Listening on 127.0.0.1:55251
+1609101824218	geckodriver	INFO	Listening on 127.0.0.1:41385
+1609101841096	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCy5E8S"
+*** You are running in headless mode.
+
+(firefox:28971): GLib-GObject-WARNING **: 17:44:01.553: invalid (NULL) pointer instance
+
+(firefox:28971): GLib-GObject-CRITICAL **: 17:44:01.553: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:29071): GLib-GObject-WARNING **: 17:44:02.134: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:29071): GLib-GObject-CRITICAL **: 17:44:02.134: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:29157): GLib-GObject-WARNING **: 17:44:03.082: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:29157): GLib-GObject-CRITICAL **: 17:44:03.082: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:29195): GLib-GObject-WARNING **: 17:44:03.473: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:29195): GLib-GObject-CRITICAL **: 17:44:03.473: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:29257): GLib-GObject-WARNING **: 17:44:03.908: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:29257): GLib-GObject-CRITICAL **: 17:44:03.909: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1609101844021	Marionette	INFO	Listening on port 46067
+1609101844083	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://395a24f7-66ed-44d4-a651-b9842d48e9fe/bg-libs.js, line 16: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 108: Error: sendRemoveListener on closed conduit {52198036-5173-4877-a8e8-62474781798d}.274877906950
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 169: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 169: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 613: TypeError: context.contentWindow is null
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 169: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 169: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 169: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 613: TypeError: context.contentWindow is null
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=true&rm=false&continue=https://mail.google.com/mail/&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1# line 1 > eval line 5018 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=true&rm=false&continue=https://mail.google.com/mail/&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1# line 1 > eval line 5018 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1609101965158	geckodriver	INFO	Listening on 127.0.0.1:59535
+1609101983010	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileg6LMu6"
+*** You are running in headless mode.
+
+(firefox:474): GLib-GObject-WARNING **: 17:46:23.327: invalid (NULL) pointer instance
+
+(firefox:474): GLib-GObject-CRITICAL **: 17:46:23.327: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:588): GLib-GObject-WARNING **: 17:46:23.808: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:588): GLib-GObject-CRITICAL **: 17:46:23.808: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:670): GLib-GObject-WARNING **: 17:46:24.725: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:670): GLib-GObject-CRITICAL **: 17:46:24.725: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:704): GLib-GObject-WARNING **: 17:46:25.019: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:704): GLib-GObject-CRITICAL **: 17:46:25.019: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:767): GLib-GObject-WARNING **: 17:46:25.618: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:767): GLib-GObject-CRITICAL **: 17:46:25.618: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:766): GLib-GObject-WARNING **: 17:46:25.618: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:766): GLib-GObject-CRITICAL **: 17:46:25.618: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+JavaScript warning: moz-extension://395a24f7-66ed-44d4-a651-b9842d48e9fe/bg-libs.js, line 16: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1609101985800	Marionette	INFO	Listening on port 42301
+1609101985873	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 108: Error: sendRemoveListener on closed conduit {52198036-5173-4877-a8e8-62474781798d}.274877906948
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 169: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 169: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 613: TypeError: context.contentWindow is null
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 169: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 169: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 169: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 613: TypeError: context.contentWindow is null
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1609102170013	geckodriver	INFO	Listening on 127.0.0.1:50813
+1609102187441	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUfmDc2"
+*** You are running in headless mode.
+
+(firefox:6144): GLib-GObject-WARNING **: 17:49:48.060: invalid (NULL) pointer instance
+
+(firefox:6144): GLib-GObject-CRITICAL **: 17:49:48.060: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:6326): GLib-GObject-WARNING **: 17:49:48.681: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:6326): GLib-GObject-CRITICAL **: 17:49:48.681: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:6438): GLib-GObject-WARNING **: 17:49:49.652: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:6438): GLib-GObject-CRITICAL **: 17:49:49.652: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:6517): GLib-GObject-WARNING **: 17:49:50.066: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:6517): GLib-GObject-CRITICAL **: 17:49:50.066: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:6643): GLib-GObject-WARNING **: 17:49:50.633: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:6643): GLib-GObject-CRITICAL **: 17:49:50.634: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:6644): GLib-GObject-WARNING **: 17:49:50.679: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:6644): GLib-GObject-CRITICAL **: 17:49:50.680: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+JavaScript warning: moz-extension://395a24f7-66ed-44d4-a651-b9842d48e9fe/bg-libs.js, line 16: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1609102190799	Marionette	INFO	Listening on port 35351
+1609102190880	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 108: Error: sendRemoveListener on closed conduit {52198036-5173-4877-a8e8-62474781798d}.274877906954
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 169: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 169: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 613: TypeError: context.contentWindow is null
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 169: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 169: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 169: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 613: TypeError: context.contentWindow is null
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1609102466479	geckodriver	INFO	Listening on 127.0.0.1:57795
+1609102486007	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilen2HHj0"
+*** You are running in headless mode.
+
+(firefox:14149): GLib-GObject-WARNING **: 17:54:46.308: invalid (NULL) pointer instance
+
+(firefox:14149): GLib-GObject-CRITICAL **: 17:54:46.308: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:14238): GLib-GObject-WARNING **: 17:54:46.786: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:14238): GLib-GObject-CRITICAL **: 17:54:46.786: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:14318): GLib-GObject-WARNING **: 17:54:47.514: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:14318): GLib-GObject-CRITICAL **: 17:54:47.514: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:14355): GLib-GObject-WARNING **: 17:54:47.806: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:14355): GLib-GObject-CRITICAL **: 17:54:47.806: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1609102488101	Marionette	INFO	Listening on port 34395
+1609102488217	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://395a24f7-66ed-44d4-a651-b9842d48e9fe/bg-libs.js, line 16: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+
+(/usr/lib/firefox/firefox:14435): GLib-GObject-WARNING **: 17:54:48.828: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:14435): GLib-GObject-CRITICAL **: 17:54:48.828: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 108: Error: sendRemoveListener on closed conduit {52198036-5173-4877-a8e8-62474781798d}.274877906950
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=true&rm=false&continue=https://mail.google.com/mail/&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1# line 1 > eval line 2955 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=true&rm=false&continue=https://mail.google.com/mail/&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1# line 1 > eval line 2955 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1609103573860	geckodriver	INFO	Listening on 127.0.0.1:56455
+1609103758542	geckodriver	INFO	Listening on 127.0.0.1:57613
+1609103859725	geckodriver	INFO	Listening on 127.0.0.1:53639
+1609111232477	geckodriver	INFO	Listening on 127.0.0.1:43031
+1609111249544	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7iqOPP"
+*** You are running in headless mode.
+
+(firefox:21606): GLib-GObject-WARNING **: 20:20:49.787: invalid (NULL) pointer instance
+
+(firefox:21606): GLib-GObject-CRITICAL **: 20:20:49.787: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:21714): GLib-GObject-WARNING **: 20:20:50.198: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:21714): GLib-GObject-CRITICAL **: 20:20:50.198: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:21777): GLib-GObject-WARNING **: 20:20:51.068: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:21777): GLib-GObject-CRITICAL **: 20:20:51.068: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:21816): GLib-GObject-WARNING **: 20:20:51.256: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:21816): GLib-GObject-CRITICAL **: 20:20:51.256: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:21860): GLib-GObject-WARNING **: 20:20:51.751: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:21860): GLib-GObject-CRITICAL **: 20:20:51.752: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1609111251826	Marionette	INFO	Listening on port 41787
+1609111251910	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://395a24f7-66ed-44d4-a651-b9842d48e9fe/bg-libs.js, line 16: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 108: Error: sendRemoveListener on closed conduit {52198036-5173-4877-a8e8-62474781798d}.274877906950
+console.log: "REMOVE CACHED" "eyJhbGciOiJSUzI1NiIsInR5cCI6ImF0K0pXVCIsImtpZCI6IjIwMTkwNzMwLTU0ZmY5NTZlIn0.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmZpcmVmb3guY29tIiwiYXVkIjoiaHR0cHM6Ly90b2tlbi5zZXJ2aWNlcy5tb3ppbGxhLmNvbSIsImNsaWVudF9pZCI6IjU4ODIzODZjNmQ4MDE3NzYiLCJleHAiOjE2MDkxMDQ0ODMsImlhdCI6MTYwOTA4Mjg4MywianRpIjoiYmU5MTZlYjVmMzRmY2Q0NzM4N2EwZWRlYmI5YzAxODc1ZGIzMmMwNmI4NDYwZDZkNmI0ZTc1ODgyNDY5ZWZmYiIsInNjb3BlIjoiaHR0cHM6Ly9pZGVudGl0eS5tb3ppbGxhLmNvbS9hcHBzL29sZHN5bmMiLCJzdWIiOiI2M2ZkZTdkZjNlNmM0M2Y3OWJhMzlmZDNiNTE3NDA2YSIsImZ4YS1nZW5lcmF0aW9uIjoxNjA2NjUwOTUyNjMwLCJmeGEtcHJvZmlsZUNoYW5nZWRBdCI6MTYwNjY1MDk5NTUzOX0.zMVnmlXZRcih0SFnBFVWvBLMBXVX7eKqJuxlLadUcMpX1iPMR2gg4kXifZkLWM_ebn1pLznVWqa-etwmvDxWJdVUFs4c6lgb9LYN3y345SP25AkYha2u2mDEVCWsN0ak3CtQoEGajjhjMDUgSkkJeg7GfQidAUVvcwjvB4kkI8TPvcYN8I0ZYIExEqFmt9Fiiq0qb1xjeunXELODOd3Y7frcalPe4mNzpU03R_D4-v0d7Q3QHLMG4e1jonct6vRB4Pff3Vo7k2fvDkCEPJQ_m37GvrSzOpPw17eU6c2JRb5PyYeqgQ68E5Q495ZJBc5BdDP3fmph5n1tv8UGVdtpJQ"
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&continue=https://drive.google.com/drive/&followup=https://drive.google.com/drive/&emr=1 line 1 > eval line 7818 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&continue=https://drive.google.com/drive/&followup=https://drive.google.com/drive/&emr=1 line 1 > eval line 7818 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1609111710597	geckodriver	INFO	Listening on 127.0.0.1:52855
+1609111728245	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNfN9Fg"
+*** You are running in headless mode.
+
+(firefox:2112): GLib-GObject-WARNING **: 20:28:48.496: invalid (NULL) pointer instance
+
+(firefox:2112): GLib-GObject-CRITICAL **: 20:28:48.496: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:2180): GLib-GObject-WARNING **: 20:28:48.897: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:2180): GLib-GObject-CRITICAL **: 20:28:48.897: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:2261): GLib-GObject-WARNING **: 20:28:49.723: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:2261): GLib-GObject-CRITICAL **: 20:28:49.723: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:2294): GLib-GObject-WARNING **: 20:28:50.012: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:2294): GLib-GObject-CRITICAL **: 20:28:50.012: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1609111730518	Marionette	INFO	Listening on port 34081
+JavaScript warning: moz-extension://395a24f7-66ed-44d4-a651-b9842d48e9fe/bg-libs.js, line 16: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1609111730608	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:2401): GLib-GObject-WARNING **: 20:28:51.563: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:2401): GLib-GObject-CRITICAL **: 20:28:51.563: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 108: Error: sendRemoveListener on closed conduit {52198036-5173-4877-a8e8-62474781798d}.274877906950
+console.log: "REMOVE CACHED" "eyJhbGciOiJSUzI1NiIsInR5cCI6ImF0K0pXVCIsImtpZCI6IjIwMTkwNzMwLTU0ZmY5NTZlIn0.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmZpcmVmb3guY29tIiwiYXVkIjoiaHR0cHM6Ly90b2tlbi5zZXJ2aWNlcy5tb3ppbGxhLmNvbSIsImNsaWVudF9pZCI6IjU4ODIzODZjNmQ4MDE3NzYiLCJleHAiOjE2MDkxMDQ0ODMsImlhdCI6MTYwOTA4Mjg4MywianRpIjoiYmU5MTZlYjVmMzRmY2Q0NzM4N2EwZWRlYmI5YzAxODc1ZGIzMmMwNmI4NDYwZDZkNmI0ZTc1ODgyNDY5ZWZmYiIsInNjb3BlIjoiaHR0cHM6Ly9pZGVudGl0eS5tb3ppbGxhLmNvbS9hcHBzL29sZHN5bmMiLCJzdWIiOiI2M2ZkZTdkZjNlNmM0M2Y3OWJhMzlmZDNiNTE3NDA2YSIsImZ4YS1nZW5lcmF0aW9uIjoxNjA2NjUwOTUyNjMwLCJmeGEtcHJvZmlsZUNoYW5nZWRBdCI6MTYwNjY1MDk5NTUzOX0.zMVnmlXZRcih0SFnBFVWvBLMBXVX7eKqJuxlLadUcMpX1iPMR2gg4kXifZkLWM_ebn1pLznVWqa-etwmvDxWJdVUFs4c6lgb9LYN3y345SP25AkYha2u2mDEVCWsN0ak3CtQoEGajjhjMDUgSkkJeg7GfQidAUVvcwjvB4kkI8TPvcYN8I0ZYIExEqFmt9Fiiq0qb1xjeunXELODOd3Y7frcalPe4mNzpU03R_D4-v0d7Q3QHLMG4e1jonct6vRB4Pff3Vo7k2fvDkCEPJQ_m37GvrSzOpPw17eU6c2JRb5PyYeqgQ68E5Q495ZJBc5BdDP3fmph5n1tv8UGVdtpJQ"
+1609111744155	geckodriver	INFO	Listening on 127.0.0.1:49799
+1609111761556	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTyJ6oz"
+*** You are running in headless mode.
+
+(firefox:3305): GLib-GObject-WARNING **: 20:29:21.798: invalid (NULL) pointer instance
+
+(firefox:3305): GLib-GObject-CRITICAL **: 20:29:21.798: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:3383): GLib-GObject-WARNING **: 20:29:22.199: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:3383): GLib-GObject-CRITICAL **: 20:29:22.200: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:3466): GLib-GObject-WARNING **: 20:29:23.050: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:3466): GLib-GObject-CRITICAL **: 20:29:23.050: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:3499): GLib-GObject-WARNING **: 20:29:23.317: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:3499): GLib-GObject-CRITICAL **: 20:29:23.317: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:3548): GLib-GObject-WARNING **: 20:29:23.842: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:3548): GLib-GObject-CRITICAL **: 20:29:23.842: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1609111763887	Marionette	INFO	Listening on port 41129
+JavaScript warning: moz-extension://395a24f7-66ed-44d4-a651-b9842d48e9fe/bg-libs.js, line 16: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1609111764024	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 108: Error: sendRemoveListener on closed conduit {52198036-5173-4877-a8e8-62474781798d}.274877906950
+console.log: "REMOVE CACHED" "eyJhbGciOiJSUzI1NiIsInR5cCI6ImF0K0pXVCIsImtpZCI6IjIwMTkwNzMwLTU0ZmY5NTZlIn0.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmZpcmVmb3guY29tIiwiYXVkIjoiaHR0cHM6Ly90b2tlbi5zZXJ2aWNlcy5tb3ppbGxhLmNvbSIsImNsaWVudF9pZCI6IjU4ODIzODZjNmQ4MDE3NzYiLCJleHAiOjE2MDkxMDQ0ODMsImlhdCI6MTYwOTA4Mjg4MywianRpIjoiYmU5MTZlYjVmMzRmY2Q0NzM4N2EwZWRlYmI5YzAxODc1ZGIzMmMwNmI4NDYwZDZkNmI0ZTc1ODgyNDY5ZWZmYiIsInNjb3BlIjoiaHR0cHM6Ly9pZGVudGl0eS5tb3ppbGxhLmNvbS9hcHBzL29sZHN5bmMiLCJzdWIiOiI2M2ZkZTdkZjNlNmM0M2Y3OWJhMzlmZDNiNTE3NDA2YSIsImZ4YS1nZW5lcmF0aW9uIjoxNjA2NjUwOTUyNjMwLCJmeGEtcHJvZmlsZUNoYW5nZWRBdCI6MTYwNjY1MDk5NTUzOX0.zMVnmlXZRcih0SFnBFVWvBLMBXVX7eKqJuxlLadUcMpX1iPMR2gg4kXifZkLWM_ebn1pLznVWqa-etwmvDxWJdVUFs4c6lgb9LYN3y345SP25AkYha2u2mDEVCWsN0ak3CtQoEGajjhjMDUgSkkJeg7GfQidAUVvcwjvB4kkI8TPvcYN8I0ZYIExEqFmt9Fiiq0qb1xjeunXELODOd3Y7frcalPe4mNzpU03R_D4-v0d7Q3QHLMG4e1jonct6vRB4Pff3Vo7k2fvDkCEPJQ_m37GvrSzOpPw17eU6c2JRb5PyYeqgQ68E5Q495ZJBc5BdDP3fmph5n1tv8UGVdtpJQ"
+1609111778358	geckodriver	INFO	Listening on 127.0.0.1:40277
+1609111796807	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUlZg3c"
+*** You are running in headless mode.
+
+(firefox:4531): GLib-GObject-WARNING **: 20:29:57.106: invalid (NULL) pointer instance
+
+(firefox:4531): GLib-GObject-CRITICAL **: 20:29:57.106: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:4720): GLib-GObject-WARNING **: 20:29:57.568: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:4720): GLib-GObject-CRITICAL **: 20:29:57.568: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:4803): GLib-GObject-WARNING **: 20:29:58.597: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:4803): GLib-GObject-CRITICAL **: 20:29:58.597: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:4836): GLib-GObject-WARNING **: 20:29:58.930: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:4836): GLib-GObject-CRITICAL **: 20:29:58.930: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+JavaScript warning: moz-extension://395a24f7-66ed-44d4-a651-b9842d48e9fe/bg-libs.js, line 16: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+
+(/usr/lib/firefox/firefox:4898): GLib-GObject-WARNING **: 20:29:59.671: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:4898): GLib-GObject-CRITICAL **: 20:29:59.671: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:4899): GLib-GObject-WARNING **: 20:29:59.726: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:4899): GLib-GObject-CRITICAL **: 20:29:59.726: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1609111799815	Marionette	INFO	Listening on port 45073
+1609111799899	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 108: Error: sendRemoveListener on closed conduit {52198036-5173-4877-a8e8-62474781798d}.274877906955
+console.log: "REMOVE CACHED" "eyJhbGciOiJSUzI1NiIsInR5cCI6ImF0K0pXVCIsImtpZCI6IjIwMTkwNzMwLTU0ZmY5NTZlIn0.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmZpcmVmb3guY29tIiwiYXVkIjoiaHR0cHM6Ly90b2tlbi5zZXJ2aWNlcy5tb3ppbGxhLmNvbSIsImNsaWVudF9pZCI6IjU4ODIzODZjNmQ4MDE3NzYiLCJleHAiOjE2MDkxMDQ0ODMsImlhdCI6MTYwOTA4Mjg4MywianRpIjoiYmU5MTZlYjVmMzRmY2Q0NzM4N2EwZWRlYmI5YzAxODc1ZGIzMmMwNmI4NDYwZDZkNmI0ZTc1ODgyNDY5ZWZmYiIsInNjb3BlIjoiaHR0cHM6Ly9pZGVudGl0eS5tb3ppbGxhLmNvbS9hcHBzL29sZHN5bmMiLCJzdWIiOiI2M2ZkZTdkZjNlNmM0M2Y3OWJhMzlmZDNiNTE3NDA2YSIsImZ4YS1nZW5lcmF0aW9uIjoxNjA2NjUwOTUyNjMwLCJmeGEtcHJvZmlsZUNoYW5nZWRBdCI6MTYwNjY1MDk5NTUzOX0.zMVnmlXZRcih0SFnBFVWvBLMBXVX7eKqJuxlLadUcMpX1iPMR2gg4kXifZkLWM_ebn1pLznVWqa-etwmvDxWJdVUFs4c6lgb9LYN3y345SP25AkYha2u2mDEVCWsN0ak3CtQoEGajjhjMDUgSkkJeg7GfQidAUVvcwjvB4kkI8TPvcYN8I0ZYIExEqFmt9Fiiq0qb1xjeunXELODOd3Y7frcalPe4mNzpU03R_D4-v0d7Q3QHLMG4e1jonct6vRB4Pff3Vo7k2fvDkCEPJQ_m37GvrSzOpPw17eU6c2JRb5PyYeqgQ68E5Q495ZJBc5BdDP3fmph5n1tv8UGVdtpJQ"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1609113388790	geckodriver	INFO	Listening on 127.0.0.1:51289
+1609113405695	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKXKo8A"
+*** You are running in headless mode.
+
+(firefox:13549): GLib-GObject-WARNING **: 20:56:46.003: invalid (NULL) pointer instance
+
+(firefox:13549): GLib-GObject-CRITICAL **: 20:56:46.003: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:13665): GLib-GObject-WARNING **: 20:56:46.452: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:13665): GLib-GObject-CRITICAL **: 20:56:46.453: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:13720): GLib-GObject-WARNING **: 20:56:47.272: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:13720): GLib-GObject-CRITICAL **: 20:56:47.272: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:13784): GLib-GObject-WARNING **: 20:56:47.644: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:13784): GLib-GObject-CRITICAL **: 20:56:47.645: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:13813): GLib-GObject-WARNING **: 20:56:48.106: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:13813): GLib-GObject-CRITICAL **: 20:56:48.106: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1609113408154	Marionette	INFO	Listening on port 34947
+JavaScript warning: moz-extension://395a24f7-66ed-44d4-a651-b9842d48e9fe/bg-libs.js, line 16: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1609113408485	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 108: Error: sendRemoveListener on closed conduit {52198036-5173-4877-a8e8-62474781798d}.274877906954
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=true&rm=false&continue=https://mail.google.com/mail/&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1# line 1 > eval line 3731 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=true&rm=false&continue=https://mail.google.com/mail/&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1# line 1 > eval line 3731 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1609113660364	geckodriver	INFO	Listening on 127.0.0.1:49147
+1609113678306	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileB7MZCQ"
+*** You are running in headless mode.
+
+(firefox:20905): GLib-GObject-WARNING **: 21:01:18.603: invalid (NULL) pointer instance
+
+(firefox:20905): GLib-GObject-CRITICAL **: 21:01:18.603: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:21022): GLib-GObject-WARNING **: 21:01:19.086: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:21022): GLib-GObject-CRITICAL **: 21:01:19.087: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:21114): GLib-GObject-WARNING **: 21:01:20.208: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:21114): GLib-GObject-CRITICAL **: 21:01:20.210: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:21149): GLib-GObject-WARNING **: 21:01:20.665: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:21149): GLib-GObject-CRITICAL **: 21:01:20.665: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:21209): GLib-GObject-WARNING **: 21:01:21.432: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:21209): GLib-GObject-CRITICAL **: 21:01:21.432: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:21208): GLib-GObject-WARNING **: 21:01:21.459: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:21208): GLib-GObject-CRITICAL **: 21:01:21.459: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+JavaScript warning: moz-extension://395a24f7-66ed-44d4-a651-b9842d48e9fe/bg-libs.js, line 16: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1609113681601	Marionette	INFO	Listening on port 45385
+1609113681691	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 108: Error: sendRemoveListener on closed conduit {52198036-5173-4877-a8e8-62474781798d}.274877906948
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 169: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 169: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 613: TypeError: context.contentWindow is null
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 169: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 169: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 169: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 613: TypeError: context.contentWindow is null
+1609113784627	geckodriver	INFO	Listening on 127.0.0.1:59305
+1609113894052	geckodriver	INFO	Listening on 127.0.0.1:60253
+1609113911204	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileX8g0Y4"
+*** You are running in headless mode.
+
+(firefox:4749): GLib-GObject-WARNING **: 21:05:11.663: invalid (NULL) pointer instance
+
+(firefox:4749): GLib-GObject-CRITICAL **: 21:05:11.663: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:4856): GLib-GObject-WARNING **: 21:05:12.235: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:4856): GLib-GObject-CRITICAL **: 21:05:12.235: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:4946): GLib-GObject-WARNING **: 21:05:13.093: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:4946): GLib-GObject-CRITICAL **: 21:05:13.093: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:4973): GLib-GObject-WARNING **: 21:05:13.300: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:4973): GLib-GObject-CRITICAL **: 21:05:13.300: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:5022): GLib-GObject-WARNING **: 21:05:13.785: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:5022): GLib-GObject-CRITICAL **: 21:05:13.785: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+JavaScript warning: moz-extension://395a24f7-66ed-44d4-a651-b9842d48e9fe/bg-libs.js, line 16: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1609113913804	Marionette	INFO	Listening on port 35429
+1609113913887	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 108: Error: sendRemoveListener on closed conduit {52198036-5173-4877-a8e8-62474781798d}.274877906950
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&continue=https://drive.google.com/drive/&followup=https://drive.google.com/drive/&emr=1 line 1 > eval line 4028 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&continue=https://drive.google.com/drive/&followup=https://drive.google.com/drive/&emr=1 line 1 > eval line 4028 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1609113948657	geckodriver	INFO	Listening on 127.0.0.1:59921
+1609113964515	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZt6I7F"
+*** You are running in headless mode.
+
+(firefox:6518): GLib-GObject-WARNING **: 21:06:04.761: invalid (NULL) pointer instance
+
+(firefox:6518): GLib-GObject-CRITICAL **: 21:06:04.761: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:6618): GLib-GObject-WARNING **: 21:06:05.150: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:6618): GLib-GObject-CRITICAL **: 21:06:05.150: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:6698): GLib-GObject-WARNING **: 21:06:05.947: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:6698): GLib-GObject-CRITICAL **: 21:06:05.947: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:6733): GLib-GObject-WARNING **: 21:06:06.318: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:6733): GLib-GObject-CRITICAL **: 21:06:06.318: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1609113966592	Marionette	INFO	Listening on port 41481
+1609113966722	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://395a24f7-66ed-44d4-a651-b9842d48e9fe/bg-libs.js, line 16: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+
+(/usr/lib/firefox/firefox:6815): GLib-GObject-WARNING **: 21:06:07.230: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:6815): GLib-GObject-CRITICAL **: 21:06:07.230: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 108: Error: sendRemoveListener on closed conduit {52198036-5173-4877-a8e8-62474781798d}.274877906954
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 169: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 169: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 613: TypeError: context.contentWindow is null
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 169: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 169: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 169: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 613: TypeError: context.contentWindow is null
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1609114538335	geckodriver	INFO	Listening on 127.0.0.1:45685
+1609114555984	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqeH5YY"
+*** You are running in headless mode.
+
+(firefox:21858): GLib-GObject-WARNING **: 21:15:56.236: invalid (NULL) pointer instance
+
+(firefox:21858): GLib-GObject-CRITICAL **: 21:15:56.236: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:21971): GLib-GObject-WARNING **: 21:15:56.647: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:21971): GLib-GObject-CRITICAL **: 21:15:56.647: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:22051): GLib-GObject-WARNING **: 21:15:57.490: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:22051): GLib-GObject-CRITICAL **: 21:15:57.490: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:22085): GLib-GObject-WARNING **: 21:15:57.854: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:22085): GLib-GObject-CRITICAL **: 21:15:57.854: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:22114): GLib-GObject-WARNING **: 21:15:58.345: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:22114): GLib-GObject-CRITICAL **: 21:15:58.345: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1609114558607	Marionette	INFO	Listening on port 43541
+1609114558664	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://395a24f7-66ed-44d4-a651-b9842d48e9fe/bg-libs.js, line 16: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 108: Error: sendRemoveListener on closed conduit {52198036-5173-4877-a8e8-62474781798d}.274877906948
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 169: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 169: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 613: TypeError: context.contentWindow is null
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 169: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 169: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 169: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 613: TypeError: context.contentWindow is null
+1609114717925	geckodriver	INFO	Listening on 127.0.0.1:37207
+1609114734133	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0KE7SW"
+*** You are running in headless mode.
+
+(firefox:26554): GLib-GObject-WARNING **: 21:18:54.478: invalid (NULL) pointer instance
+
+(firefox:26554): GLib-GObject-CRITICAL **: 21:18:54.478: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:26637): GLib-GObject-WARNING **: 21:18:54.803: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:26637): GLib-GObject-CRITICAL **: 21:18:54.803: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:26713): GLib-GObject-WARNING **: 21:18:55.518: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:26713): GLib-GObject-CRITICAL **: 21:18:55.518: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:26747): GLib-GObject-WARNING **: 21:18:55.803: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:26747): GLib-GObject-CRITICAL **: 21:18:55.803: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+JavaScript warning: moz-extension://395a24f7-66ed-44d4-a651-b9842d48e9fe/bg-libs.js, line 16: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+
+(/usr/lib/firefox/firefox:26805): GLib-GObject-WARNING **: 21:18:56.299: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:26805): GLib-GObject-CRITICAL **: 21:18:56.300: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:26807): GLib-GObject-WARNING **: 21:18:56.322: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:26807): GLib-GObject-CRITICAL **: 21:18:56.322: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1609114736385	Marionette	INFO	Listening on port 38303
+1609114736687	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 108: Error: sendRemoveListener on closed conduit {52198036-5173-4877-a8e8-62474781798d}.274877906950
+1609114756987	geckodriver	INFO	Listening on 127.0.0.1:40489
+1609114773600	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGgmWvL"
+*** You are running in headless mode.
+
+(firefox:27834): GLib-GObject-WARNING **: 21:19:33.847: invalid (NULL) pointer instance
+
+(firefox:27834): GLib-GObject-CRITICAL **: 21:19:33.847: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:27916): GLib-GObject-WARNING **: 21:19:34.240: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:27916): GLib-GObject-CRITICAL **: 21:19:34.241: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:27995): GLib-GObject-WARNING **: 21:19:35.052: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:27995): GLib-GObject-CRITICAL **: 21:19:35.052: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:28027): GLib-GObject-WARNING **: 21:19:35.394: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:28027): GLib-GObject-CRITICAL **: 21:19:35.394: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:28059): GLib-GObject-WARNING **: 21:19:35.876: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:28059): GLib-GObject-CRITICAL **: 21:19:35.876: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+JavaScript warning: moz-extension://395a24f7-66ed-44d4-a651-b9842d48e9fe/bg-libs.js, line 16: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1609114776009	Marionette	INFO	Listening on port 37895
+1609114776071	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 108: Error: sendRemoveListener on closed conduit {52198036-5173-4877-a8e8-62474781798d}.274877906950
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 169: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 169: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 613: TypeError: context.contentWindow is null
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 169: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 169: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 169: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 613: TypeError: context.contentWindow is null
+1609114790972	geckodriver	INFO	Listening on 127.0.0.1:39049
+1609114807860	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezrsWSP"
+*** You are running in headless mode.
+
+(firefox:28949): GLib-GObject-WARNING **: 21:20:08.119: invalid (NULL) pointer instance
+
+(firefox:28949): GLib-GObject-CRITICAL **: 21:20:08.120: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:29054): GLib-GObject-WARNING **: 21:20:08.535: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:29054): GLib-GObject-CRITICAL **: 21:20:08.535: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:29113): GLib-GObject-WARNING **: 21:20:09.400: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:29113): GLib-GObject-CRITICAL **: 21:20:09.400: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:29169): GLib-GObject-WARNING **: 21:20:09.697: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:29169): GLib-GObject-CRITICAL **: 21:20:09.697: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:29202): GLib-GObject-WARNING **: 21:20:10.131: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:29202): GLib-GObject-CRITICAL **: 21:20:10.131: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1609114810218	Marionette	INFO	Listening on port 38813
+1609114810340	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://395a24f7-66ed-44d4-a651-b9842d48e9fe/bg-libs.js, line 16: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 108: Error: sendRemoveListener on closed conduit {52198036-5173-4877-a8e8-62474781798d}.274877906954
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1609114843742	geckodriver	INFO	Listening on 127.0.0.1:34087
+1609114941555	geckodriver	INFO	Listening on 127.0.0.1:45181
+1609114958658	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1MTRMV"
+*** You are running in headless mode.
+
+(firefox:4762): GLib-GObject-WARNING **: 21:22:39.083: invalid (NULL) pointer instance
+
+(firefox:4762): GLib-GObject-CRITICAL **: 21:22:39.084: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:4898): GLib-GObject-WARNING **: 21:22:39.738: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:4898): GLib-GObject-CRITICAL **: 21:22:39.738: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:4961): GLib-GObject-WARNING **: 21:22:40.652: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:4961): GLib-GObject-CRITICAL **: 21:22:40.652: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:5005): GLib-GObject-WARNING **: 21:22:40.822: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:5005): GLib-GObject-CRITICAL **: 21:22:40.822: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:5050): GLib-GObject-WARNING **: 21:22:41.142: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:5050): GLib-GObject-CRITICAL **: 21:22:41.143: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1609114961269	Marionette	INFO	Listening on port 43273
+1609114961332	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://395a24f7-66ed-44d4-a651-b9842d48e9fe/bg-libs.js, line 16: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 108: Error: sendRemoveListener on closed conduit {52198036-5173-4877-a8e8-62474781798d}.274877906950
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 169: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 169: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 613: TypeError: context.contentWindow is null
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 169: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 169: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 169: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 613: TypeError: context.contentWindow is null
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&continue=https://drive.google.com/drive/&followup=https://drive.google.com/drive/&emr=1 line 1 > eval line 6474 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&continue=https://drive.google.com/drive/&followup=https://drive.google.com/drive/&emr=1 line 1 > eval line 6474 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1609115214960	geckodriver	INFO	Listening on 127.0.0.1:55677
+1609115231151	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1Br7Do"
+*** You are running in headless mode.
+
+(firefox:12153): GLib-GObject-WARNING **: 21:27:11.386: invalid (NULL) pointer instance
+
+(firefox:12153): GLib-GObject-CRITICAL **: 21:27:11.386: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:12230): GLib-GObject-WARNING **: 21:27:11.770: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:12230): GLib-GObject-CRITICAL **: 21:27:11.770: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:12307): GLib-GObject-WARNING **: 21:27:12.550: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:12307): GLib-GObject-CRITICAL **: 21:27:12.550: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:12344): GLib-GObject-WARNING **: 21:27:12.910: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:12344): GLib-GObject-CRITICAL **: 21:27:12.910: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1609115233128	Marionette	INFO	Listening on port 34811
+1609115233238	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://395a24f7-66ed-44d4-a651-b9842d48e9fe/bg-libs.js, line 16: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+
+(/usr/lib/firefox/firefox:12428): GLib-GObject-WARNING **: 21:27:14.132: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:12428): GLib-GObject-CRITICAL **: 21:27:14.132: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 108: Error: sendRemoveListener on closed conduit {52198036-5173-4877-a8e8-62474781798d}.274877906950
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
