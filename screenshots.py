@@ -12,13 +12,13 @@ def make_driver():
     driver = webdriver.Firefox(fp, options=options, executable_path="./geckodriver")
     driver.get('https://ticktick.com/webapp/#q/all/tasks')
     driver.set_window_position(0, 0)
-    driver.set_window_size(800, 1024)
+    driver.set_window_size(800, 1120)
     
     return driver
 
 def create_good_screenshot():
     background = Image.new('RGB', (1920, 1080), color = (255,255,255))
-    img = Image.open("screenshot.png")
+    img = Image.open("screenshot.png").resize((int(800*1.5),int(1120*1.5)))
     background.paste(img)
     matrix = (
         0.6, 0, 0, 0,
