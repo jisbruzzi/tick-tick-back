@@ -1,3 +1,3 @@
 cd tick-tick-back
 source venv/bin/activate
-python screenshots.py
+python screenshots.py start

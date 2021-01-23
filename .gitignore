@@ -4,3 +4,7 @@ geckodriver
 grckodriver.log
 wallpaper.png
 screenshot.png
+profile
+*.png
+*.stdout
+*.log

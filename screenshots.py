@@ -4,11 +4,12 @@ import time
 from PIL import Image
 import PIL.ImageOps
 import subprocess
+import click
 
-def make_driver(url):
+def make_driver(url,headless=True):
     options = Options()
-    options.headless = True
-    fp = webdriver.FirefoxProfile('/home/jose/.mozilla/firefox/5ud9v1om.default-release')
+    options.headless = headless
+    fp = webdriver.FirefoxProfile('./profile')
     driver = webdriver.Firefox(fp, options=options, executable_path="./geckodriver")
     driver.get(url)
     driver.set_window_position(0, 0)
@@ -37,14 +38,30 @@ def update_desktop():
     subprocess.run(['feh', '--bg-scale', 'wallpaper.png'])
     
 
-driver_week = make_driver("https://ticktick.com/webapp/#q/all/week")
-driver_tag = make_driver("https://ticktick.com/webapp/#t/b3BjaW9uYWw/tasks")
-while True:
-    print("saving")
-    customize_page(driver_week)
-    driver_week.save_screenshot("week.png")
-    customize_page(driver_tag)
-    driver_tag.save_screenshot("optional.png")
-    create_good_screenshot("week.png","optional.png")
-    update_desktop()
+@click.command()
+def start():
+    driver_week = make_driver("https://ticktick.com/webapp/#q/all/week")
+    driver_tag = make_driver("https://ticktick.com/webapp/#t/b3BjaW9uYWw/tasks")
+    while True:
+        print("saving")
+        customize_page(driver_week)
+        driver_week.save_screenshot("week.png")
+        customize_page(driver_tag)
+        driver_tag.save_screenshot("optional.png")
+        create_good_screenshot("week.png","optional.png")
+        update_desktop()
+        time.sleep(10)
     
+@click.command()
+def login():
+    make_driver("https://ticktick.com/webapp",headless=False)
+
+@click.group()
+def cli():
+    pass
+
+
+cli.add_command(start)
+cli.add_command(login)
+
+cli()
